@@ -1,0 +1,6 @@
+cs1501_p4/Test3.java
+ cs1501_p4.Test3
+cs1501_p4/AnzuTest.java
+ cs1501_p4.AnzuTest
+cs1501_p4/AllTest.java
+ cs1501_p4.AllTest

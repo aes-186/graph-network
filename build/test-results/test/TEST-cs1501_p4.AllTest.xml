@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cs1501_p4.AllTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-11-19T02:49:55" hostname="zu-mac.lan" time="0.055">
+  <properties/>
+  <testcase name="Bandwidth Along Path" classname="cs1501_p4.AllTest" time="0.02"/>
+  <testcase name="Copper Only Connected" classname="cs1501_p4.AllTest" time="0.009"/>
+  <testcase name="Lowest Latency Path" classname="cs1501_p4.AllTest" time="0.007"/>
+  <testcase name="Survives Any Two Failed Vertices" classname="cs1501_p4.AllTest" time="0.007"/>
+  <testcase name="Lowest Average Latency Spanning Tree" classname="cs1501_p4.AllTest" time="0.007"/>
+  <system-out><![CDATA[Expected 0, result 0
+Expected 4, result 4
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
